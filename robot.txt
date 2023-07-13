@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sapa.uinsgd.ac.id/images/slot88/sitemap.xml
